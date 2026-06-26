@@ -36,6 +36,7 @@ There are two kinds of piezo buzzers: active and passive. The active one that pl
 * [Zelda's Lullaby from *The Legend of Zelda Ocarina of time*](https://github.com/robsoncouto/arduino-songs/blob/master/zeldaslullaby/zeldaslullaby.ino)
 * [The Legend of Zelda for the NES](https://github.com/robsoncouto/arduino-songs/blob/master/zeldatheme/zeldatheme.ino)
 * [Pacman](https://github.com/robsoncouto/arduino-songs/blob/master/pacman/pacman.ino)
+* [Flowey Undertale theme](https://github.com/rafarito/arduino-songs/blob/master/Flowey/Flowey.ino)
 
 ### Classic
 * [Cannon in D - Pachelbel](https://github.com/robsoncouto/arduino-songs/blob/master/cannonind/cannonind.ino)
